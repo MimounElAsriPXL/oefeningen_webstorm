@@ -1,0 +1,22 @@
+#lichtblauw{
+    background-color: aqua;
+    font-family: arial, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    padding: 8px;
+}
+
+#donkerblauw{
+    background-color: #27426d;
+    font-family: arial, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    padding: 8px;
+
+}
+
+table{
+    color: white;
+    width: 100%;
+
+}
